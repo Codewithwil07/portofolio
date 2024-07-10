@@ -25,7 +25,7 @@ import Tiktok from '../assets/IMG/tik-tok.png';
 import Nextjs from '../assets/IMG/Next.svg';
 import Wa from '../assets/IMG/Wa.svg';
 import Express from '../assets/IMG/express.js.svg';
-import Project2 from '../assets/Project/Project2.png';
+import Project2 from '../assets/IMG/E-Commerce.png';
 
 const Images = {
     Express,
@@ -56,5 +56,6 @@ const Images = {
     Project2,
     Node,
     SCSS,
+    
 };
 export default Images;

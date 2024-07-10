@@ -156,7 +156,7 @@ const Skill = () => {
             </motion.div>
             <motion.div variants={ChildrenVariants}>
                 <img
-                    src={image.Nextjs}
+                    src={image.Mongodb}
                     alt='Image-Icon'
                     className='w-10 pb-1'
                 />
@@ -165,7 +165,45 @@ const Skill = () => {
                         className='font-extrabold text-xl text-black'
                         id='skill-header'
                     >
-                        Next
+                        PostgresSql
+                    </span>{' '}
+                    <br />
+                    Next.js is a popular open-source React framework for
+                    building web applications. it allow developers to build
+                    modern, server-render React applications with ease
+                </p>
+            </motion.div>
+            <motion.div variants={ChildrenVariants}>
+                <img
+                    src={image.Mongodb}
+                    alt='Image-Icon'
+                    className='w-10 pb-1'
+                />
+                <p className='text-gray-400 text-sm md:text-base'>
+                    <span
+                        className='font-extrabold text-xl text-black'
+                        id='skill-header'
+                    >
+                        MongoDB
+                    </span>{' '}
+                    <br />
+                    Next.js is a popular open-source React framework for
+                    building web applications. it allow developers to build
+                    modern, server-render React applications with ease
+                </p>
+            </motion.div>
+            <motion.div variants={ChildrenVariants}>
+                <img
+                    src={image.Express}
+                    alt='Image-Icon'
+                    className='w-10 pb-1'
+                />
+                <p className='text-gray-400 text-sm md:text-base'>
+                    <span
+                        className='font-extrabold text-xl text-black'
+                        id='skill-header'
+                    >
+                        Express
                     </span>{' '}
                     <br />
                     Next.js is a popular open-source React framework for

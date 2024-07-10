@@ -19,7 +19,7 @@ export default function Navbar() {
                     Willy Syahputra
                 </p>
                 <p className='text-sm font-light md:text-sm'>
-                    Frontend Developer
+                    Fullstack Developer
                 </p>
             </Link>
             <ToggleMenu onClick={handleClik} />
