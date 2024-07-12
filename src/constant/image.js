@@ -26,6 +26,8 @@ import Nextjs from '../assets/IMG/Next.svg';
 import Wa from '../assets/IMG/Wa.svg';
 import Express from '../assets/IMG/express.js.svg';
 import Project2 from '../assets/IMG/E-Commerce.png';
+import psql from '../assets/IMG/psql.png';
+
 
 const Images = {
     Express,
