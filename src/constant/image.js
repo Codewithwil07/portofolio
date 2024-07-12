@@ -57,6 +57,7 @@ const Images = {
     Project1,
     Project2,
     Node,
+    psql,
     SCSS,
     
 };
